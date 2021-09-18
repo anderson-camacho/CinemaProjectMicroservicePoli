@@ -1,0 +1,8 @@
+rootProject.name = 'ProyectoFinal'
+
+include 'service-user'
+include 'service-movie'
+include 'service-showtimes'
+include 'service-booking'
+include 'service-config'
+include 'service-eureka'
